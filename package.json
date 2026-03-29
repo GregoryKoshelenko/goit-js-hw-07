@@ -1,0 +1,10 @@
+{
+  "name": "goit-js-hw-07",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"**/*.{html,css,js,json}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
